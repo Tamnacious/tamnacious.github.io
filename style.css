@@ -6,6 +6,12 @@ p {
 
 #first-paragraph {
 	font-family: helvetica, san-serif;
-font-size: 16px;
-color: blue;
+  font-size: 16px;
+  color: blue;
+}
+
+#List {
+  font-family: helvetice, sans-serif;
+  font-size : 16px;
+  color: white;
 }
