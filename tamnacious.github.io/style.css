@@ -1,0 +1,83 @@
+#bg {
+  position:absolute;
+  position:fixed;
+  z-index:-1;
+  left:0;
+  top:0;
+  width:100%;
+  height:100%;
+}
+
+h1{
+  font-size: 40px;
+}
+h2{
+  font-size: 30px;
+}
+h3{
+  font-size: 45px;
+}
+
+#mainhomee {
+
+    text-align: center;
+		float:left;
+		width: 42%;
+		-webkit-box-shadow: inset 0 0 300px rgba(10,0,0,0.5);
+	    -moz-box-shadow: inset 0 0 300px rgba(10,0,0,0.5);
+		box-shadow: inset 0 0 300px rgba(10,0,0,0.5);
+		padding: 30px ;
+		margin-left: 50px;
+		margin-right:50px;
+}
+
+#mainhomee p{
+    font-family: Candara;
+    font-size: 20;
+}
+
+#mainnav div p a {
+	font: 150%/1.4 Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;
+  color: white;
+}
+a:active,
+a:hover {
+	color: grey;
+	text-shadow: 0 1px 1px rgba(0,0,0,0.75), 0 0 5px rgba(198,234,247,0.4);
+}
+a:link {
+ color:#FFFFFF;
+ text-decoration: bold;
+ text-wrap:normal
+}
+a:visited {
+ color: grey;
+ text-decoration: none;
+}
+
+#sidebarr{
+  text-align: center;
+	width: 42%;
+	float: right;
+	-webkit-box-shadow: inset 0 0 300px rgba(10,0,0,1.0);
+	-moz-box-shadow: inset 0 0 300px rgba(10,0,0,1.0);
+	box-shadow: inset 0 0 300px rgba(10,0,0,0.5);
+	padding-right: 30 px
+  margin-left: 50px;
+  margin-right:50px;
+}
+
+#sidebarr ul{
+  font-size: 20;
+  font-family: Candara;
+}
+
+#sidebarr p{
+  font-size: 20;
+  font-family: Candara;
+}
+#first-paragraph {
+	font-family: CenturyGothic, san-serif;
+  font-size: 16px;
+  color: white;
+}
